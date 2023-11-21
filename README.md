@@ -1,4 +1,5 @@
-# LSTM-Sat-Telem-Comp
+# Different Long Short-Term Memory Approaches to Enhance Prediction-Based Satellite Telemetry Compression
+# Recurrent neural network based prediction to enhance satellite telemetry compression
 
 This is the source code of all LSTM based deep learning models (in Matlab) implemented in the next two articles:
 
